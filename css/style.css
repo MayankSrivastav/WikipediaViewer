@@ -1,0 +1,49 @@
+body { 
+  background-color: orange;
+}
+
+.main {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+}
+
+.extract {
+  padding-left: 15px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+#search {
+  width: 83.5%;  
+}
+#search-btn {
+  width: 16%;
+}
+.article {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.results {
+  display: none;
+  background-color: #f6f186;
+  border: 1px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+.article:hover {
+  border: 1px solid brown;
+  background-color: #cfa653;
+}
+
+#random-btn {
+  text-align: center;
+  color: #005571;
+  font-size: larger; 
+}
